@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "rHJm9wsjJ747FyYRZmhdpJ9H2wOff0wFv6o9js4Ke56lyTDPfZ9uoHWijY9dGqQ1IYJ+6pgUGjpARsDsQkG2Rw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Petar\\Documents\\Freelance\\FoxitFinanceBackendApp\\FoxitFinanceBackendApi\\FoxitFinanceBackendApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Petar\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.17\\microsoft.netcore.app.host.win-x64.3.1.17.nupkg.sha512"
+  ],
+  "logs": []
+}
